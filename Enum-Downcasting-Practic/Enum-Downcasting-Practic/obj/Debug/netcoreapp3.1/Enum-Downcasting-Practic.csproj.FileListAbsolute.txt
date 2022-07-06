@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\bin\Debug\netcoreapp3.1\Enum-Downcasting-Practic.exe
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\bin\Debug\netcoreapp3.1\Enum-Downcasting-Practic.deps.json
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\bin\Debug\netcoreapp3.1\Enum-Downcasting-Practic.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\bin\Debug\netcoreapp3.1\Enum-Downcasting-Practic.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\bin\Debug\netcoreapp3.1\Enum-Downcasting-Practic.dll
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\bin\Debug\netcoreapp3.1\Enum-Downcasting-Practic.pdb
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.dll
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.pdb
+C:\Users\HP\Desktop\Programmer\c#\EnumParamsStructUpcastingDowncasting\Enum-Downcasting-Practic\Enum-Downcasting-Practic\obj\Debug\netcoreapp3.1\Enum-Downcasting-Practic.genruntimeconfig.cache
